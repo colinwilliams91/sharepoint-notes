@@ -45,9 +45,11 @@ Short summary on functionality and used technologies.
 - Clone this repository
 - Ensure that you are at the solution folder
 - in the command-line run:
-  - **npm install**
-  - **gulp serve**
-
+```powershell
+  - gulp trust-dev-cert
+  - npm install
+  - gulp serve
+```
 > Include any additional steps as needed.
 
 ## Features
@@ -71,3 +73,4 @@ This extension illustrates the following concepts:
 - [Use Microsoft Graph in your solution](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/get-started/using-microsoft-graph-apis)
 - [Publish SharePoint Framework applications to the Marketplace](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/publish-to-marketplace-overview)
 - [Microsoft 365 Patterns and Practices](https://aka.ms/m365pnp) - Guidance, tooling, samples and open-source controls for your Microsoft 365 development
+oot

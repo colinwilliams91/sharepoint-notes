@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "18.18.0",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.12.0"
+    },
+    "version": "1.19.0",
+    "libraryName": "sharepoint-notes",
+    "libraryId": "d04b0019-f559-4e63-aab4-3e464cd7f852",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "sharepoint-notes",
+    "solutionShortDescription": "sharepoint-notes description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
